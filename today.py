@@ -2,10 +2,10 @@
 This is the module docstring
 '''
 def my_name_is ():
-    G_N= "ParissaPeimaniyfard"
-    return G_N
+    indivi_name= "ParissaPeimaniyfard"
+    return indivi_name
+
 
 def my_buddy_is ():
-    N_N= "ParissaPeimaniyfard"
-    return N_N
-pass  # YOUR CODE HERE
+    budd_name= "ParissaPeimaniyfard"
+    return budd_name
